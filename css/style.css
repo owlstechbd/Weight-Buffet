@@ -7004,6 +7004,15 @@ width: 15%;
 	iframe{
 		margin-top: 30px;
 	}
+	.pricing-body{
+		padding: 0 20px 60px;
+	}
+	.mt-60{
+		margin-top: 40px;
+	}
+	.single-testimonial-bg{
+		height: auto;
+	}
 }
 
 /*** 
